@@ -130,7 +130,6 @@ class _GridProductCard extends StatelessWidget {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-
             // ================================
             // GAMBAR — DIPOSISIKAN TENGAH
             // ================================
